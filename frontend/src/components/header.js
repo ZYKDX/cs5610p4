@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+// each .js file should have a corresponding .css file
 
 export default function Header(props) {
   const [user, setUser] = useState();
