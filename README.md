@@ -10,13 +10,14 @@ Susie Xu, Yukun Zhou
 
 ### Project Objective
 We built an online community for NEU students as project 3, however, after conducting the usability interview with several users,
-we find 2 major problems: 1. the design is not good enough according to the design principles we learned in class; 2. a major usability
-problem is that the newest post will be updated at the last page, instead of the first page, which makes it hard (or impossible when there
+we find 2 major problems: 
+* 1. the design is not good enough according to the design principles we learned in class; 
+* 2. a major usability problem is that the newest post will be updated at the last page, instead of the first page, which makes it hard (or impossible when there
 are lots of posts) to read the newest posts.
 
-Considering this, we made 2 major improvements: 1. change the outlook of the website, add pictures, change the colors, and highlight NEU-related
-factors. This adjustment is tremendous and you definitely have to check it out! It has a Google style, but 100 times more beautiful than Google
-2. We also changed the order of posts being displayed, so that new posts will appear at the top page instead of the last page.
+Considering this, we made 2 major improvements: 
+* 1. change the outlook of the website, add pictures, change the colors, and highlight NEU-related factors. This adjustment is tremendous and you definitely have to check it out! It has a Google style, but 100 times more beautiful than Google
+* 2. We also changed the order of posts being displayed, so that new posts will appear at the top page instead of the last page.
 
 With these 2 improvements, our website is now more user-friendly and good-looking.
 
