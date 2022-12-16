@@ -20,6 +20,7 @@ export default function Dashboard(props) {
       setDisableNext(false);
     }
   }, [page, list]);
+  // This is pretty good method for only showing certain amout of post
 
   useEffect(() => {
     fetch("/listPosts?p=" + page, {

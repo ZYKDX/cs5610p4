@@ -49,6 +49,9 @@ export default function Signin() {
               <div class="card-body p-md-5">
                 <div class="row justify-content-center">
                   <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">
+                    // all those divs are making code hard to read
+                    // I dind't see you have much css file, I think you are using bootstarap so that's why you have the above divs
+                    // But putting some sub components would make it clearer
                     <p class="text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4">
                       Hi, <span style={{ color: "#c4041d" }}>N</span>Uer!
                     </p>
@@ -126,3 +129,5 @@ export default function Signin() {
 }
 
 Signin.propTypes = {};
+// This page is a bit less organized and as it's similiar to signup page, I assume you can break some conponents down and share it with signup page
+// So that it can be more organized
