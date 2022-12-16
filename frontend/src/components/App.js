@@ -43,3 +43,5 @@ async function getUsername() {
 }
 
 App.propTypes = {};
+
+// code was clean and well organized
