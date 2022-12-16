@@ -150,3 +150,4 @@ async function getUser() {
 }
 
 EditProfile.propTypes = {};
+// I like that you have the function where uses can change their profiles
